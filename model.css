@@ -1,0 +1,41 @@
+#example {/*親要素*/
+     position: relative;
+     padding:0;/*要素内の余白は消す*/
+}
+#example span{/*文字*/
+     position: absolute;
+     top: 0;
+     left: 0;
+     /*以下装飾*/
+     color: blue;
+     background-color:aliceblue;
+     padding:0 2px;
+     line-height:1.5em;
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+#grade{
+    background: linear-gradient( 135deg, rgba(246, 255, 0, 0.8), rgba(255, 0, 161, 0.8)),
+    url(re_DqpwP6LVsAAczCB.jpg);
+    background-size:cover;
+}
+#ray{
+    font-family: "Hiragino Kaku Gothic Pro W3", sans-serif;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    color: white;
+    font-size: 2em;
+}
+.mark{
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(transparent 60%, #ffff66 60%);
+  background: -webkit-linear-gradient(left, #DE487A, #FFDB4B, #2BD02B, #0095F9, #8E55FF);
+}
