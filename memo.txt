@@ -16,6 +16,7 @@ git add filename
 git status
 
 *commit(all)
+git commit -m "commit message"
 git commit -a
 
 *push
