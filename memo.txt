@@ -21,3 +21,9 @@ git commit -a
 
 *push
 git push origin add-new-file
+
+*pull request(please comment)
+https://github.com/tatunoriuehera/css_arts/pull/issue-5788735419
+
+*marge(github)
+[master] to [add-new-file(brach)] marge
