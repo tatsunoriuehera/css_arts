@@ -1,0 +1,23 @@
+*make clone
+git clone git@github.com:tatsunoriuehera/css_arts.git
+
+*branch
+git branch add-new-file
+git branch
+
+*switch branch
+git checkout add-new-file
+
+
+*add
+git add filename
+
+*status
+git status
+
+*commit(all)
+git commit -m "commit message"
+git commit -a
+
+*push
+git push origin add-new-file
